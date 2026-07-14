@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0620-not-boring-movies](https://github.com/VishnuvarathanRanjith/programs/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/VishnuvarathanRanjith/programs/tree/master/0627-swap-sex-of-employees) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/VishnuvarathanRanjith/programs/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
