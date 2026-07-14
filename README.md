@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VishnuvarathanRanjith/programs/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/VishnuvarathanRanjith/programs/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
