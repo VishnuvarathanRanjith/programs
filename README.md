@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/VishnuvarathanRanjith/programs/tree/master/0146-lru-cache) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishnuvarathanRanjith/programs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -60,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/VishnuvarathanRanjith/programs/tree/master/3904-smallest-stable-index-ii) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/VishnuvarathanRanjith/programs/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/VishnuvarathanRanjith/programs/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/VishnuvarathanRanjith/programs/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
