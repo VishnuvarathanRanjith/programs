@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/VishnuvarathanRanjith/programs/tree/master/0045-jump-game-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishnuvarathanRanjith/programs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3904-smallest-stable-index-ii](https://github.com/VishnuvarathanRanjith/programs/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/VishnuvarathanRanjith/programs/tree/master/0146-lru-cache) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/VishnuvarathanRanjith/programs/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/VishnuvarathanRanjith/programs/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
