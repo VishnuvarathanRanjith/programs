@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/VishnuvarathanRanjith/programs/tree/master/0018-4sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VishnuvarathanRanjith/programs/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/VishnuvarathanRanjith/programs/tree/master/0018-4sum) |
 | [0045-jump-game-ii](https://github.com/VishnuvarathanRanjith/programs/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishnuvarathanRanjith/programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VishnuvarathanRanjith/programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VishnuvarathanRanjith/programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/VishnuvarathanRanjith/programs/tree/master/0134-gas-station) |
 | [0860-lemonade-change](https://github.com/VishnuvarathanRanjith/programs/tree/master/0860-lemonade-change) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/VishnuvarathanRanjith/programs/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
